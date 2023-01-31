@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16375100/125825025-74b5b1cd-c5d2-40f1-902a-5b5902720d90.png" width="300"/>
+   <img className="round" src="https://avatars.githubusercontent.com/u/64968854?v=4" alt="user"  />
 </p>
 <p align="center">Test your typing speed without leaving the terminal.</p>
 
